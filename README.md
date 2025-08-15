@@ -23,10 +23,8 @@
 </div>
 
 
-📈 Projects:
-- `virtual-voice`: Voice-enabled assistant with backend logic
-- `traffic_telligence`: Smart traffic prediction using ML
-- `ghg_emission_project`: Emission analysis with data science
+
+
 
 📫 Reach me at: kirankumartm24@gmail.com  
 🔗 Connect:<a href="https://www.linkedin.com/in/kiran-kumar-t-m-b986a9318/">
