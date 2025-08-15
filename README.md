@@ -29,7 +29,10 @@
 - `ghg_emission_project`: Emission analysis with data science
 
 📫 Reach me at: kirankumartm24@gmail.com  
-🔗 Connect: [LinkedIn](linkedin.com/in/kiran-kumar-t-m-b986a9318)
+🔗 Connect:<a href="https://www.linkedin.com/in/kiran-kumar-t-m-b986a9318/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
 
 ---
 
