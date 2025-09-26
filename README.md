@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm T M Kiran Kumar</h1>
-<h3 align="center">CSE (Data Science) Student | Java Developer & ML Enthusiast</h3>
+<h3 align="center"> Backend Developer & ML Enthusiast | Final Year B.Tech CSE (Data Science) Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=4CAF50&center=true&vCenter=true&width=600&lines=Computer+Science+Engineering+(Data+Science)+Student;Java+Developer+%26+ML+Enthusiast;Hands-on+Project+Builder;Open+to+Internships+%26+Collaboration;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=4CAF50&center=true&vCenter=true&width=600&lines=Computer+Science+(Data+Science)+Student;Backend+Developer+%26+ML+Enthusiast;Hands-on+Project+Builder;Open+to+Internships+%26+Collaboration;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
