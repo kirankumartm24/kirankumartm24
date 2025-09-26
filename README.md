@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm T M Kiran Kumar</h1>
-<h3 align="center">CSE (Data Science) Student | Full-Stack & ML Enthusiast</h3>
+<h3 align="center">CSE (Data Science) Student | Java Developer & ML Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=4CAF50&center=true&vCenter=true&width=600&lines=Computer+Science+Engineering+(Data+Science)+Student;Full-Stack+%26+ML+Developer;Hands-on+Project+Builder;Open+to+Internships+%26+Collaboration;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=4CAF50&center=true&vCenter=true&width=600&lines=Computer+Science+Engineering+(Data+Science)+Student;Java+Developer+%26+ML+Enthusiast;Hands-on+Project+Builder;Open+to+Internships+%26+Collaboration;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
@@ -10,7 +10,7 @@
 ## 👨‍💻 About Me  
 
 - 🎓 Pursuing **B.Tech in Computer Science Engineering (Data Science)** at **Rajeev Gandhi Memorial College of Engineering and Technology (2022–2026)**.  
-- 💡 Passionate about **AI/ML, Web Development, and Automation Tools**.  
+- 💡 Passionate about **Java Development, AI/ML, and Automation Tools**.  
 - 🔨 Built real-world projects including a **Price Prediction Chatbot** and a **Virtual Voice Assistant**.  
 - 📊 Experienced in **Data Analysis, Streamlit Dashboards, and Flask Applications**.  
 - 🌱 Currently exploring **Spring Boot, System Design, and Cloud Technologies**.  
@@ -22,9 +22,9 @@
 
 #### 💻 Languages  
 <p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
@@ -38,9 +38,9 @@
 
 #### 🛠 Frameworks & Tools  
 <p>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
